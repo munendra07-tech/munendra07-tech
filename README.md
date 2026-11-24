@@ -6,7 +6,7 @@
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2C9CDB&center=true&vCenter=true&width=560&lines=Building+reliable+AI+agents+and+tools;Testing+what+happens+when+things+fail;Python+%C2%B7+FastAPI+%C2%B7+Vector+DBs+%C2%B7+MCP;Open+to+AI%2FML+and+backend+roles)](https://github.com/munendra07-tech)
 
-📍 Hyderabad, India &nbsp;·&nbsp; 🎓 AI & Data Science Graduate (2025) &nbsp;·&nbsp; 💼 **Open to full-time roles**
+📍 Hyderabad, India &nbsp;·&nbsp; 🎓 B.Tech AI & Data Science, Woxsen University (2025) &nbsp;·&nbsp; 💼 **Open to full-time roles**
 
 </div>
 
@@ -57,6 +57,7 @@ I learn by shipping, so every project below is a working repository with tests, 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munendra-b-v-0889b6228)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-kappa-dhwg8a1jw3.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-munendra07--tech-181717?style=for-the-badge&logo=github)](https://github.com/munendra07-tech)
 
 </div>
